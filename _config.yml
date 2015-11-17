@@ -1,0 +1,23 @@
+name: money
+favicon: null
+layout_spectrum: 0.860977778211236
+typography_spectrum: 0.2906937529332936
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23594126268289983
+  lightness: 0.8372506480664015
+  saturation: 0.7532180068083107
+  rhythmicContrast: 0.7167671951465309
+purpose: []
